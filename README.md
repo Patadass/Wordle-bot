@@ -17,12 +17,21 @@ g(if letter is green)
 n(if letter is not in the word)
 
 example:
+
 Save attempt (yes) (no):no
+
 Start with random word (yes) (no):no
+
 Start with your own word (yes) (no):no
+
 alert // you are given this word
+
 nnnyg // you type in the information *IMPORTANT" IT HAS TO BE ALL TOGETHER IN ONE STRING
+
 brunt // you are given the next word to type in
+
 nyyng 
+
 strut
+
 ggggg // the program stops since it has guessed the word

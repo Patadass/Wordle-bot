@@ -8,7 +8,6 @@
 
 using namespace std;
 
-//trying commit
 
 vector<string> getNewLetters(vector<string>& letters){
     string letter;
@@ -146,10 +145,15 @@ void wordle_bot(vector<string>& listOfWords,string line,const string& wantSave){
                     break;
                 }
             }
-            if(letter[1] == 'Y'){//TODO: check if there are 2 yellows of same letter so that it doesnt give words with yellow in that possiton
+            if(letter[1] == 'Y'){
                 bool has_letter = false;
                 for(int k = 0;k < size_of_a_word;k++){
-                    if(k == j)continue;
+                    if(k == j){//this made algorithm a bit better but TODO:if yellow is in the position don't let any future words have that letter in that position
+                        if(line[k] != letter[0]){
+                            continue;
+                        }
+                        break;
+                    }
                     if(line[k] == letter[0]){
                         has_letter = true;
                         break;
@@ -283,7 +287,7 @@ int main() {
                     cin>>line;
                 }
                 if(isLineAllowed(line) == 2){
-                    cout<<"WORD MUST CONTAIN ONLY LETERS (a-z)";
+                    cout<<"WORD MUST CONTAIN ONLY LETTERS (a-z)";
                     cin>>line;
                 }
                 if(isLineAllowed(line) == 3){

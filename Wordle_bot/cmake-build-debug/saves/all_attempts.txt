@@ -157,3 +157,46 @@ green
 GGGGG
 
 --------------------------------------------
+------------------LOST-----------------------
+TIME OF GUESSING:Tue Nov 14 00:13:38 2023
+
+revue
+NNNNN
+
+aback
+YNNNN
+
+daddy
+NGNNG
+
+fanny
+NGNNG
+
+gaily
+NGNNG
+
+happy
+NGNNG
+
+--------------------------------------------
+------------------WON-----------------------
+GUESSED THE WORD sight
+IN 5 GUESSES
+TIME OF GUESSING:Wed Nov 15 00:01:31 2023
+
+poker
+NNNNN
+
+abyss
+NNNYN
+
+ficus
+NGNNY
+
+midst
+NGNYG
+
+sight
+GGGGG
+
+--------------------------------------------

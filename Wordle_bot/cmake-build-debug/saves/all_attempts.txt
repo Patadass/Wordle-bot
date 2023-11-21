@@ -200,3 +200,78 @@ sight
 GGGGG
 
 --------------------------------------------
+------------------WON-----------------------
+GUESSED THE WORD trust
+IN 5 GUESSES
+TIME OF GUESSING:Thu Nov 16 17:53:46 2023
+
+zesty
+NNYYN
+
+angst
+NNNGG
+
+boost
+NNNGG
+
+crust
+NGGGG
+
+trust
+GGGGG
+
+--------------------------------------------
+------------------WON-----------------------
+GUESSED THE WORD tardy
+IN 6 GUESSES
+TIME OF GUESSING:Fri Nov 17 19:57:10 2023
+
+stuff
+NYNNN
+
+abate
+YNNYN
+
+caput
+NGNNY
+
+faith
+NGNYN
+
+natal
+NGYNN
+
+tardy
+GGGGG
+
+--------------------------------------------
+------------------WON-----------------------
+GUESSED THE WORD candy
+IN 4 GUESSES
+TIME OF GUESSING:Mon Nov 20 16:48:54 2023
+
+unset
+NYNNN
+
+acorn
+YYNNY
+
+canal
+GGGNN
+
+candy
+GGGGG
+
+--------------------------------------------
+------------------WON-----------------------
+GUESSED THE WORD piano
+IN 2 GUESSES
+TIME OF GUESSING:Tue Nov 21 18:00:59 2023
+
+audio
+YNNYG
+
+piano
+GGGGG
+
+--------------------------------------------
